@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alloy_furnace:item/cobalt_broken_elytra"
+  }
+}

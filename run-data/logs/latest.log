@@ -1,0 +1,37 @@
+[08maj2024 22:53:56.012] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Bruger\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.3, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, alloy_furnace, --all, --output, C:\Data a\Minecraft\mods\alloy_furnace-MOD\src\generated\resources, --existing, C:\Data a\Minecraft\mods\alloy_furnace-MOD\src\main\resources]
+[08maj2024 22:53:56.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[08maj2024 22:53:56.148] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[08maj2024 22:53:56.205] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Bruger/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[08maj2024 22:53:56.482] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Bruger\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.3\9775dc3f284cdb3e0d33b372c328c6ef88e434b0\javafmllanguage-1.20.1-47.1.3.jar is missing mods.toml file
+[08maj2024 22:53:56.485] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Bruger\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.3\d785f4087ec3be094fd5aed801f5366ca958a81b\lowcodelanguage-1.20.1-47.1.3.jar is missing mods.toml file
+[08maj2024 22:53:56.489] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Bruger\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.3\be60c45f3578cdf944a669c6ea16fd91bec50f2e\mclanguage-1.20.1-47.1.3.jar is missing mods.toml file
+[08maj2024 22:53:56.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Bruger\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.3\1aadc0201d8e97b107d9978c7fe066bb54bbb9dc\fmlcore-1.20.1-47.1.3.jar is missing mods.toml file
+[08maj2024 22:53:56.575] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[08maj2024 22:53:57.795] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Bruger\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, alloy_furnace, --all, --output, C:\Data a\Minecraft\mods\alloy_furnace-MOD\src\generated\resources, --existing, C:\Data a\Minecraft\mods\alloy_furnace-MOD\src\main\resources]
+[08maj2024 22:53:58.200] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [alloy_furnace]
+[08maj2024 22:54:03.335] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.3, for MC 1.20.1 with MCP 20230612.114412
+[08maj2024 22:54:03.335] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.3 Initialized
+[08maj2024 22:54:03.560] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[08maj2024 22:54:03.566] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.855 ms
+[08maj2024 22:54:03.911] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Bruger/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[08maj2024 22:54:03.913] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Bruger/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[08maj2024 22:54:04.125] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[08maj2024 22:54:04.158] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 31 ms
+[08maj2024 22:54:04.158] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[08maj2024 22:54:04.197] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 39 ms
+[08maj2024 22:54:04.197] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block Tags
+[08maj2024 22:54:04.293] [main/INFO] [net.minecraft.data.DataGenerator/]: Block Tags finished after 96 ms
+[08maj2024 22:54:04.295] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Tags
+[08maj2024 22:54:04.299] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Tags finished after 4 ms
+[08maj2024 22:54:04.300] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: alloy_furnace
+[08maj2024 22:54:04.328] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: alloy_furnace finished after 28 ms
+[08maj2024 22:54:04.329] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: alloy_furnace
+[08maj2024 22:54:04.329] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: alloy_furnace finished after 0 ms
+[08maj2024 22:54:04.329] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : alloy_furnace
+[08maj2024 22:54:04.330] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : alloy_furnace finished after 1 ms
+[08maj2024 22:54:04.330] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Advancements
+[08maj2024 22:54:04.332] [main/INFO] [net.minecraft.data.DataGenerator/]: Advancements finished after 1 ms
+[08maj2024 22:54:04.332] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id alloy_furnace
+[08maj2024 22:54:04.333] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id alloy_furnace finished after 1 ms
+[08maj2024 22:54:04.334] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 208 ms
+[08maj2024 22:54:04.341] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 61, old count: 61, new count: 62, removed stale: 0, written: 0

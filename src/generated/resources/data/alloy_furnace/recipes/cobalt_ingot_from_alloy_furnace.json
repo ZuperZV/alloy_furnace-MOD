@@ -1,0 +1,21 @@
+{
+  "type": "alloy_furnace:alloy_furnace",
+  "craftTime": 160,
+  "fluidAmount": 2000,
+  "fluidType": "minecraft:lava",
+  "ingredients": [
+    {
+      "item": "alloy_furnace:raw_cobalt"
+    },
+    {
+      "item": "alloy_furnace:raw_cobalt"
+    },
+    {
+      "item": "alloy_furnace:raw_cobalt"
+    }
+  ],
+  "output": {
+    "count": 4,
+    "item": "alloy_furnace:cobalt_ingot"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alloy_furnace:item/cobalt_ingot",
+    "layer1": "alloy_furnace:item/blaze"
+  }
+}

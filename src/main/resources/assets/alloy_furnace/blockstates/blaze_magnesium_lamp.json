@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "alloy_furnace:block/blaze_magnesium_lamp"
+    },
+    "lit=true": {
+      "model": "alloy_furnace:block/blaze_magnesium_lamp_on"
+    }
+  }
+}

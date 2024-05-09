@@ -1,0 +1,18 @@
+{
+  "type": "alloy_furnace:alloy_furnace",
+  "craftTime": 100,
+  "fluidAmount": 500,
+  "fluidType": "minecraft:lava",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "alloy_furnace:cobalt_ingot"
+    },
+    []
+  ],
+  "output": {
+    "item": "alloy_furnace:blaze_cobalt_ingot"
+  }
+}

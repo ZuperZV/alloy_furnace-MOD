@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "alloy_furnace:item/cobalt_netherite_sword"
+  }
+}

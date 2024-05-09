@@ -1,0 +1,21 @@
+{
+  "type": "alloy_furnace:alloy_furnace",
+  "craftTime": 100,
+  "fluidAmount": 1000,
+  "fluidType": "minecraft:lava",
+  "ingredients": [
+    {
+      "item": "alloy_furnace:raw_lead"
+    },
+    {
+      "item": "alloy_furnace:raw_lead"
+    },
+    {
+      "item": "alloy_furnace:raw_lead"
+    }
+  ],
+  "output": {
+    "count": 4,
+    "item": "alloy_furnace:lead_ingot"
+  }
+}

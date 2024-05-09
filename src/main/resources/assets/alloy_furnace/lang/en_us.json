@@ -1,0 +1,52 @@
+{
+  "creativetab.alloy_furnace_tab": "Alloy Furnace Tab",
+  "creativetab.alloy_tools_tab": "Alloy Tools Tab",
+
+  
+  "item.alloy_furnace.molybdenum_ingot": "Molybdenum Ingot",
+  "item.alloy_furnace.raw_molybdenum": "Raw Molybdenum",
+  "item.alloy_furnace.molybdenum_nugget": "Molybdenum Nugget",
+  "item.alloy_furnace.blaze_molybdenum_ingot": "Blaze Molybdenum Ingot",
+  "item.alloy_furnace.cobalt_molybdenum_ingot": "Cobalt Molybdenum Ingot",
+  
+  "item.alloy_furnace.magnesium_ingot": "Magnesium ingot",
+  "item.alloy_furnace.raw_magnesium": "Raw Magnesium",
+  "item.alloy_furnace.magnesium_nugget": "Magnesium Nugget",
+  "item.alloy_furnace.blaze_magnesium_ingot": "Blaze Magnesium Ingot",
+  "item.alloy_furnace.cobalt_magnesium_ingot": "Cobalt Magnesium Ingot",
+
+  "item.alloy_furnace.lead_ingot": "Lead Ingot",
+  "item.alloy_furnace.raw_lead": "Raw Lead",
+  "item.alloy_furnace.lead_nugget": "Lead Nugget",
+  "item.alloy_furnace.blaze_lead_ingot": "Blaze Lead Ingot",
+  "item.alloy_furnace.cobalt_lead_ingot": "Cobalt Lead Ingot",
+  
+  "item.alloy_furnace.cobalt_ingot": "Cobalt Ingot",
+  "item.alloy_furnace.raw_cobalt": "Raw Cobalt",
+  "item.alloy_furnace.cobalt_nugget": "Cobalt Nugget",
+  "item.alloy_furnace.blaze_cobalt_ingot": "Blaze Cobalt Ingot",
+
+  "item.alloy_furnace.chromium_ingot": "Chromium Ingot",
+  "item.alloy_furnace.raw_chromium": "Raw Chromium",
+  "item.alloy_furnace.chromium_nugget": "Chromium Nugget",
+  "item.alloy_furnace.blaze_chromium_ingot": "Blaze Chromium Ingot",
+  "item.alloy_furnace.cobalt_chromium_ingot": "Cobalt Chromium Ingot",
+
+  "item.alloy_furnace.p_diamond": "P Diamond",
+
+  "item.alloy_furnace.cobalt_shears": "Cobalt Shears",
+  "item.alloy_furnace.cobalt_netherite_sword": "Cobalt Netherite Sword",
+
+  "item.alloy_furnace.cobalt_apple": "Cobalt Apple",
+  "item.alloy_furnace.cobalt_elytra": "Cobalt Elytra",
+  
+  "block.alloy_furnace.alloy_furnace": "Alloy Furnace",
+  "block.alloy_furnace.blaze_magnesium_lamp": "Blaze Magnesium Lamp",
+
+  "alloy_furnace.tooltip.liquid.amount.with.capacity": "%s / %s mB",
+  "alloy_furnace.tooltip.liquid.amount": "%s mB",
+
+  "upgrade.alloy_furnace.cobalt_netherite_upgrade": "Cobalt Netherite Upgrade",
+  "item.alloy_furnace.smithing_template.cobalt_netherite_upgrade.applies_to": "Netherite Equipment",
+  "item.alloy_furnace.smithing_template.cobalt_netherite_upgrade.ingredients": "Cobalt ingot"
+}
